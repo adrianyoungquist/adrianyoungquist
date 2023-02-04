@@ -2,7 +2,7 @@
 
 My name is Adrian. 
 
-- 📚 I am a junior at San Jose State University studying applied math.
+- 📚 I am a junior at San Jose State University studying applied computational math.
 - 📫 You can reach me at [adrian.youngquist@gmail.com](mailto:adrian.youngquist@gmail.com)
 <!--
 **adrianyoungquist/adrianyoungquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
